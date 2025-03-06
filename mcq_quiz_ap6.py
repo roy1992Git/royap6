@@ -1,3 +1,4 @@
+import streamlit as st
 mcqs = [
     {
         "situation": "Si Liza ay nagtatrabaho sa isang pabrika kung saan siya ay inaasahang mag-overtime araw-araw...",
